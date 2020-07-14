@@ -1,0 +1,42 @@
+{
+    "name": "Dark Order",
+    "description": "A syntax highlighter inspired by Atom's One Dark theme.",
+    "styles": {
+        "punctuation": {
+            "color": "#a6acbb",
+            "decoration": []
+        },
+
+        "predicate": {
+            "color": "#61afef",
+            "decoration": ["bold"]
+        },
+
+        "quantifier": {
+            "color": "#c678dd;",
+            "decoration": ["bold"]
+        },
+
+        "connective": {
+            "color": "#56b6c2",
+            "decoration": []
+        },
+        "equality": {
+            "color": "#56b6c2",
+            "decoration": []
+        },
+
+        "unquantifiedVar": {
+            "color": "#d19a66",
+            "decoration": ["italic"]
+        },
+        "existentialVar": {
+            "color": "#e06c75",
+            "decoration": ["italic"]
+        },
+        "universalVar": {
+            "color": "#e5c07b",
+            "decoration": ["italic"]
+        }
+    }
+}
