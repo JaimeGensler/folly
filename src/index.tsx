@@ -1,4 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'draft-js/dist/Draft.css';
 
-ReactDOM.render(<p>Hello</p>, document.getElementById('root'));
+import App from './components/';
+
+ReactDOM.render(<App />, document.getElementById('root'));
